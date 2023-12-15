@@ -20,5 +20,5 @@ Below you can find some fields that I have a special interest on.
 #### Projects that I'd like TODO
 
 - [`donut.c`](https://www.a1k0n.net/2011/07/20/donut-math.html)
-- Ben Eater's [8 bits computer with breaboards]{https://www.youtube.com/watch?v=HyznrdDSSGM&list=PLowKtXNTBypGqImE405J2565dvjafglHU}
-- Create a [`wm`]{https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i/}
+- Ben Eater's [8 bits computer with breaboards](https://www.youtube.com/watch?v=HyznrdDSSGM&list=PLowKtXNTBypGqImE405J2565dvjafglHU)
+- Create a [`wm`](https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i/)
